@@ -59,4 +59,4 @@ jobs:
           app-name: 'branj-githubActions-deploy'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2BC7F255E9124A9E9D401A8D38832D93 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C36E332FEE844DC5BC604674A5BFEA25 }}
